@@ -35,8 +35,6 @@ Python Concepts Applied
 
 - Project Status
 
-Version 1.0 – Initial implementation.
-
 Author
 
 Developed as a beginner Python project to explore programming applications in Animal Production.
